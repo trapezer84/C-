@@ -1,0 +1,5 @@
+c:\users\owner\documents\visual studio 2012\Projects\성적처리\성적처리\bin\Debug\성적처리.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\성적처리\성적처리\bin\Debug\성적처리.exe
+c:\users\owner\documents\visual studio 2012\Projects\성적처리\성적처리\bin\Debug\성적처리.pdb
+c:\users\owner\documents\visual studio 2012\Projects\성적처리\성적처리\obj\Debug\성적처리.exe
+c:\users\owner\documents\visual studio 2012\Projects\성적처리\성적처리\obj\Debug\성적처리.pdb
